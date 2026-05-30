@@ -15,7 +15,7 @@ We are building tools that make renting simpler, faster, and more transparent fo
 ---
 
 #### — Hey Dev, looking for a job? [Apply now.](https://madrizi.com/jobs)
-``bash
+``
 We have a huge backlog, with amazing features to be developed. Interested? Reach us 😉
 ``
 
